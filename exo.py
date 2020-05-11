@@ -98,7 +98,7 @@ for x in langue:
     print(x ,end = ".")
 for i in range(-10,-101,-30) :
     print(i)
-    -30 espace
+    # -30 espace
 
 
 
